@@ -11,6 +11,8 @@ sdn软件定义网络，目的是想要利用软件来模拟网络设备，如�
 官方的说法：Open vSwitch是一款高质量的多层虚拟交换机，以开源Apache 2许可证授权，非常适合在虚拟机环境中充当2层交换机。支持多种基于Linux的虚拟化技术，包括Xen / XenServer、KVM和VirtualBox。
 支持Open Flow协议，所以可以很方便的通过编程实现大规模网络的自动化，被大量运用于SDN网络中。
 
+![](https://github.com/manshuxu/doc/blob/master/ovs/ovs-framework.png)
+
 架构和原理之类的文章很多，这里就不在一一阐述，本文以实践为主。
 
 ## 安装
