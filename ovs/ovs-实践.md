@@ -31,7 +31,7 @@ systemctl enable openvswitch
 
 ### 实验环境
 
-![](https://www.processon.com/view/link/5d1979ebe4b0a7e304f9aa7c)
+![](https://github.com/manshuxu/doc/blob/master/ovs/ovs.png)
 
 此图符合本文所有实验
 
