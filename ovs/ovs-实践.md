@@ -31,7 +31,7 @@ systemctl is-active openvswitch
 systemctl enable openvswitch
 ```
 
-### 实验环境
+### 实验拓扑
 
 ![](https://github.com/manshuxu/doc/blob/master/ovs/ovs.png)
 
